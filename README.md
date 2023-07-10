@@ -17,7 +17,9 @@ pip install numpy
 pip install scipy
 ```
 ### Datasets
-it can be downloaded from the websites of KDIS http://www.uco.es/kdis/mllresources/
+they can be downloaded from the websites of KDIS http://www.uco.es/kdis/mllresources/, you also can use them from /data folder
+
+
 
 
 
