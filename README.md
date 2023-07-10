@@ -4,7 +4,18 @@ Motivated by real-world applications such as recommendation systems and social n
 
 # Incomplete Multi-label Learning
 
+### Environment (Python 3.8.12)
+```
+# Install Anaconda (https://docs.anaconda.com/anaconda/install/linux/)
+wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh
+bash Anaconda3-2021.11-Linux-x86_64.sh
 
+# Install required packages
+pip install tensorflow-gpu
+pip install scikit-learn
+pip install numpy
+pip install scipy
+```
 
 
 
