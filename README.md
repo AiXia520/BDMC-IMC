@@ -32,7 +32,7 @@ We employed the Friedman test to statistically analyze the performance of the in
 In our approach, the parameters are mainly divided into two parts, $\lambda $ (i.e. ${\lambda _X}$, ${\lambda _M}$, ${\lambda _N}$, and ${\lambda _Y}$) and  $k$ (i.e. ${k_X}$, ${k_M}$,  ${k_N}$ and ${k_Y}$). The parameter $\lambda $ is the penalty parameter enforcing the low-rank constraint on the matrix approximation. For example, ${\lambda _X}$ is the penalty parameter on the feature matrix approximation of ${\bf{\hat X}}$, ${\lambda _Y}$ for label matrix approximation of ${\bf{\hat Y}}$, ${\lambda _M}$ and ${\lambda _N}$ for controlling the importance between features and residual. The parameter $k$ can be considered the nonconvex relaxation of the proposed problem with a low-dimensional latent space.
 
 <p align="left"> 
-<img width="800" src="https://github.com/AiXia520/TAMS/blob/main/utils/fig6.png">
+<img width="800" src="https://github.com/AiXia520/BDMC-IMC/blob/main/incomplete multi-label learning/fig.png">
 </p>
 
 
