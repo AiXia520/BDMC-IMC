@@ -19,7 +19,10 @@ pip install scipy
 ### Datasets
 they can be downloaded from the websites of KDIS http://www.uco.es/kdis/mllresources/, you also can use them from /data folder
 
+### Run
 
+For transductive Incomplete Multi-label Learning, you can run the transductive_main.py;
+For inductive Incomplete Multi-label Learning, you can run the inductive_main.py;
 
 
 
