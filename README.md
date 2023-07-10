@@ -16,7 +16,8 @@ pip install scikit-learn
 pip install numpy
 pip install scipy
 ```
-
+### Datasets
+it can be downloaded from the websites of KDIS http://www.uco.es/kdis/mllresources/
 
 
 
