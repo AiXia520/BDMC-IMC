@@ -1,0 +1,113 @@
+#bibtex数据集
+our method:
+feature error: 442.0919975119794
+train auc: 0.7429106658643159
+(1479, 159)
+(1479, 159)
+precision@1: 0.0683
+precision@2: 0.0446
+precision@3: 0.0397
+precision@4: 0.0341
+precision@5: 0.0315
+nDCG@1: 0.0683
+nDCG@2: 0.0557
+nDCG@3: 0.0572
+nDCG@4: 0.0583
+nDCG@5: 0.0613
+
+DirtyIMC:
+feature error: 434.76360656467614
+train auc: 0.5211340228218834
+(1479, 159)
+(1479, 159)
+precision@1: 0.0108
+precision@2: 0.0189
+precision@3: 0.0174
+precision@4: 0.0181
+precision@5: 0.0183
+nDCG@1: 0.0108
+nDCG@2: 0.0183
+nDCG@3: 0.0194
+nDCG@4: 0.0226
+nDCG@5: 0.0261
+
+CoEmbed:
+
+feature error: 441.20844280660395
+train auc: 0.6093293618469348
+(1479, 159)
+(1479, 159)
+precision@1: 0.0825
+precision@2: 0.0588
+precision@3: 0.0516
+precision@4: 0.0445
+precision@5: 0.0402
+nDCG@1: 0.0825
+nDCG@2: 0.0715
+nDCG@3: 0.0743
+nDCG@4: 0.0768
+nDCG@5: 0.0805
+
+ColEmbed_L:
+feature error: 452.18485371827467
+train auc: 0.6315104053060767
+(1479, 159)
+(1479, 159)
+precision@1: 0.0115
+precision@2: 0.0128
+precision@3: 0.0142
+precision@4: 0.0147
+precision@5: 0.0149
+nDCG@1: 0.0115
+nDCG@2: 0.0140
+nDCG@3: 0.0167
+nDCG@4: 0.0192
+nDCG@5: 0.0226
+
+ColEmbed_NL:
+feature error: 803.7906158905062
+train auc: 0.490800935902263
+(1479, 159)
+(1479, 159)
+precision@1: 0.0183
+precision@2: 0.0156
+precision@3: 0.0156
+precision@4: 0.0152
+precision@5: 0.0139
+nDCG@1: 0.0183
+nDCG@2: 0.0193
+nDCG@3: 0.0220
+nDCG@4: 0.0248
+nDCG@5: 0.0263
+
+
+#medical 数据集
+our method:
+feature error: 95.1707186620668
+train auc: 0.8468693062774699
+precision@1: 0.2653
+precision@2: 0.2449
+precision@3: 0.1973
+precision@4: 0.1735
+precision@5: 0.1459
+nDCG@1: 0.2653
+nDCG@2: 0.3399
+nDCG@3: 0.3810
+nDCG@4: 0.4161
+nDCG@5: 0.4276
+
+ColEmbed_L:
+feature error: 90.36892910460396
+train auc: 0.7847494360103778
+(196, 45)
+(196, 45)
+precision@1: 0.0357
+precision@2: 0.0332
+precision@3: 0.0289
+precision@4: 0.0255
+precision@5: 0.0337
+nDCG@1: 0.0357
+nDCG@2: 0.0479
+nDCG@3: 0.0551
+nDCG@4: 0.0597
+nDCG@5: 0.0805
