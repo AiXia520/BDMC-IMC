@@ -16,6 +16,11 @@ pip install scikit-learn
 pip install numpy
 pip install scipy
 ```
+<p align="left"> 
+<img width="850" src="https://github.com/AiXia520/BDMC-IMC/blob/main/incomplete multi-label learning/fig1.png">
+</p>
+
+
 ### Datasets
 they can be downloaded from the websites of KDIS http://www.uco.es/kdis/mllresources/, you also can use them from /data folder
 
