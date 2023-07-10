@@ -38,3 +38,10 @@ In our approach, the parameters are mainly divided into two parts, $\lambda $ (i
 
 # Incomplete Multi-view Multi-label Learning
 
+In many real-world applications, one instance is not only associated with multiple labels but also often has multiple heterogeneous feature representations from multiple views. For example, an image can be described by color information (RGB), shape cues (SIFT), the Histogram of Oriented Gradients (HOG) and so on, which is an important paradigm referred to as multi-view multi-label learning.
+
+### Datasets
+they can be downloaded from the websites http://lear.inrialpes.fr/people/guillaumin/data.php.
+
+### Run
+
